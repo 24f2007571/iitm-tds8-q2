@@ -1,0 +1,17 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python cache/build artifacts
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# This project's local run-state store
+bqml_store.json
+bqml_store.json.tmp
+
+# Editor/OS junk
+.vscode/
+.DS_Store
